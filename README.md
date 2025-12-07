@@ -1,2 +1,2 @@
 # SimpleFPS
-Very simple FPS monitor with drag, options, scale and opacity sliders
+Very simple FPS/MS monitor with drag, options, scale and opacity sliders
