@@ -1,5 +1,5 @@
 --- SimpleFPS.lua
---- Minimal FPS monitor compatible with Ascension / 3.3.5 UI (UI 30300).
+--- Minimal FPS/MS monitor compatible with Ascension / 3.3.5 UI (UI 30300).
 
 local AddonName = "SimpleFPS"
 
