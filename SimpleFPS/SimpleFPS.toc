@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## Title: SimpleFPS
-## Notes: Very simple FPS monitor with drag, options, scale and opacity sliders
+## Notes: Very simple FPS/MS monitor with drag, options, scale and opacity sliders
 ## Author: Ashi-Ryu
 ## SavedVariables: SimpleFPSDB
 SimpleFPS.lua
